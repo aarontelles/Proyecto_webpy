@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "appprueba-423422",
+  "private_key_id": "9e6138328fbaa1952d049caa4eb1c5bd0670b8cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtN8thZy9QRuIh\nerUx1VTvL8/43fpU+kvFLlQsYITf2cVUpCkvLYXXeL1FZ9ocg2sMhboGEuI0uIjr\nGXX4huzjurcjhJljeSeyQz4P4w+ieS10WlDhKmeNB37JOWmKukKmMjB5Fv6/hzzS\niR6gD1jPQUcsn2gsUkRnSORj2YXWdtT/f9jqUXk+Pt5dE4O+ThquHs6VMY3BIA+L\npD2+OL8qxYN4MKW2WESCfoPbzCMTtk3Li5BAXwkHRKuVTHbTqv+xNMiQXlwbAfaD\ni5VCy97ps+DGEMvay4+AU9yn6gWbnfHEM3TUmHhhDiPAs0MEZC8OQpCRsbtIlXXz\nlvmSL/PdAgMBAAECggEACdVfieWKNZP4lW76Z1xViIid1WKAqh9Vetmw9J38HRsn\nTTFOlzuN3BgiIpUNOE4rnxfeYibjSZvqRfJ5lITQYPNCH1WRQajonIGdvdgllJMt\nhev0qHu4SjTROUo1mCcPzpCN2On5x1S9mrQnFW4ZnBZ4HGvmRZHcCUMFmDeKlgys\nA1AByKyxRIIpL94YvYU9UXmYcUrqD0CdvI3N72be06GijaYEU8wRGD9+oZ8urFnl\nMtNAVpAZU7rM2hvyPlBuUr51OboCeACZpu1sDs5IiSO/R7RdEdmxUkH9AFIlqGUt\ny0165fk3M5/NKCkdPsHS3Y2iQVY5ITGQeO3BZnC7IQKBgQDe0Mlj3QGDmErAcLP7\nF55gLI03tcX5vLRg03DWKWUYZbipJGQXLel6c4ptAOMyDUy91xzHjC0pb+hzmql8\n54SmX9gJWMD9gAahrDv4o1Ce62cTW3//B14xHOIXzUO2kB3l5lgB4NNDLwK6Zz9s\nP/tA7lS/pLKCo8NRWfSJdfSksQKBgQDHBAQZsmstVaAN9TraCvm1S966jq8Wxns7\n3grX08ym1qIedk0pFqG28UqFNw59h1HAWJYP5gQfqcrAxodKjCaUjKfIvAT7G7d5\n5GnujrzVuYqY9BpUDZ7mC/fbm7btZ00djTIHrw7JLZJktR7VS/TyKJB9xfv9Vkwy\nZYf+ODo87QKBgGMlcJe5PfU6jPi4rb2rMtQEvwntHp0T9QeozmrdnJiQmuzYvpj5\n2wyb4RrD7FTXSjCnSa0ZmPb5TuwyA/0KYCJQP6dZEPc8QrcqFr16nmM4yHL6oifv\nNWCRQ6Hnupu/4S3to3eifR9GCea8DqKyjbDE3H0yYiRzjnPinUeVbzjhAoGBAIvy\nKgP779wIOy21hXXwg9nWCUB8t2i3l87ofA17FY04nvX20JmVHZCsqm904M6qynUM\nljGF2N5/ImFe+aIVXcfWBOJmPMZrniCr20Xyv503BNw7wwvaLCOuxNN78y2MF7Ex\nKb43fpk/X5NLvevVpuBmX/zhrSpfdeN2fCPrXCCdAoGBAIkeI2jG6g0kIXEdEL34\nDZhTFZs2gkugWdD1QZZsTtNpoErratwZJdsQXaKJ+qe2uxj32Q5771eybufb1+wg\nSYEpPPQ/Ad3PEssufFpIQYLNGweKlg+Pz2jCs1Kd5Z1uoyMhuoUBDQOtDnRrbdMf\nvbGbEZDZarbJnbaG8/IFBPom\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-app@appprueba-423422.iam.gserviceaccount.com",
+  "client_id": "114287937488887937021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-app%40appprueba-423422.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
